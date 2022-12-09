@@ -1,0 +1,13 @@
+C:\Users\HARU\Documents\Visual Studio 2022\Trabalho9-10Sexta\Trabalho9-10Sexta\bin\Debug\Trabalho9-10Sexta.exe.config
+C:\Users\HARU\Documents\Visual Studio 2022\Trabalho9-10Sexta\Trabalho9-10Sexta\bin\Debug\Trabalho9-10Sexta.exe
+C:\Users\HARU\Documents\Visual Studio 2022\Trabalho9-10Sexta\Trabalho9-10Sexta\bin\Debug\Trabalho9-10Sexta.pdb
+C:\Users\HARU\Documents\Visual Studio 2022\Trabalho9-10Sexta\Trabalho9-10Sexta\obj\Debug\Trabalho9-10Sexta.csproj.AssemblyReference.cache
+C:\Users\HARU\Documents\Visual Studio 2022\Trabalho9-10Sexta\Trabalho9-10Sexta\obj\Debug\Trabalho9-10Sexta.csproj.SuggestedBindingRedirects.cache
+C:\Users\HARU\Documents\Visual Studio 2022\Trabalho9-10Sexta\Trabalho9-10Sexta\obj\Debug\Trabalho9_10Sexta.Form1.resources
+C:\Users\HARU\Documents\Visual Studio 2022\Trabalho9-10Sexta\Trabalho9-10Sexta\obj\Debug\Trabalho9_10Sexta.Properties.Resources.resources
+C:\Users\HARU\Documents\Visual Studio 2022\Trabalho9-10Sexta\Trabalho9-10Sexta\obj\Debug\Trabalho9-10Sexta.csproj.GenerateResource.cache
+C:\Users\HARU\Documents\Visual Studio 2022\Trabalho9-10Sexta\Trabalho9-10Sexta\obj\Debug\Trabalho9-10Sexta.csproj.CoreCompileInputs.cache
+C:\Users\HARU\Documents\Visual Studio 2022\Trabalho9-10Sexta\Trabalho9-10Sexta\obj\Debug\Trabalho9-10Sexta.exe
+C:\Users\HARU\Documents\Visual Studio 2022\Trabalho9-10Sexta\Trabalho9-10Sexta\obj\Debug\Trabalho9-10Sexta.pdb
+C:\Users\HARU\Documents\Visual Studio 2022\Trabalho9-10Sexta\Trabalho9-10Sexta\obj\Debug\Trabalho9_10Sexta.Form2.resources
+C:\Users\HARU\Documents\Visual Studio 2022\Trabalho9-10Sexta\Trabalho9-10Sexta\obj\Debug\Trabalho9_10Sexta.Form3.resources
