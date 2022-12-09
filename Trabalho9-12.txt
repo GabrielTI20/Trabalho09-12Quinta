@@ -1,0 +1,7 @@
+1- Aplicativo do windowns forms(.NET Fremework)
+2- Para dentificação
+3- Caixa de ferramenta > Controles Comuns > "TexBox"
+4- Selecionar o objeto > propridade > "BlackColor"
+5- Selecionar o objeto > propridade > "ForeColor"
+6- Name no Desing " Nome do meu Objeto "
+   Propriedade Text " Texto será mostrado para usuário "
